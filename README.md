@@ -1,1 +1,1 @@
-# sms_spam_detection_using_lstm
+# SMS Spam Detection
